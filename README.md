@@ -1,4 +1,8 @@
 # 问题描述
+
+环境
+mindspore 2.1.0
+
 自定义了三个损失函数<br>
 1.CenterLoss.py<br>
 2.CenterTripletLoss<br>
