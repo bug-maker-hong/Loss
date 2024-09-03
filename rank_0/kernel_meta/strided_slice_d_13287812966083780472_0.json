@@ -1,0 +1,21 @@
+{
+    "KBHit":false,
+    "binFileName":"strided_slice_d_13287812966083780472_0",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "coreType":"AiCore",
+    "deterministic":"ignore",
+    "globalworkspace_spec_workspace":{
+        "size":32,
+        "type":0
+    },
+    "kernelName":"strided_slice_d_13287812966083780472_0__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "memoryStamping":[],
+    "opParaSize":0,
+    "parameters":[
+        null,
+        null
+    ],
+    "sha256":"e057c8022c063926db7e477d9e42995afb0634ff73f69da8f28eee4133643985"
+}

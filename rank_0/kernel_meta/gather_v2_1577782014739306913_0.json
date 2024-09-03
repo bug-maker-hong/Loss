@@ -1,0 +1,22 @@
+{
+    "binFileName":"gather_v2_1577782014739306913_0",
+    "binFileSuffix":".o",
+    "blockDim":1,
+    "coreType":"AiCore",
+    "deterministic":"ignore",
+    "globalworkspace_spec_workspace":{
+        "size":32,
+        "type":0
+    },
+    "kernelName":"gather_v2_1577782014739306913_0__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "memoryStamping":[],
+    "opParaSize":0,
+    "parameters":[
+        null,
+        null,
+        null,
+        null
+    ],
+    "sha256":"a98e5f586fea44142116aea74f3c6b667fa0a46107f6bfc13094e8b0b4aeb7ee"
+}

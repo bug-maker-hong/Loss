@@ -1,0 +1,33 @@
+{
+    "binFileName":"transpose_7159519738427171586_0",
+    "binFileSuffix":".o",
+    "blockDim":32,
+    "coreType":"AiCore",
+    "deterministic":"ignore",
+    "globalworkspace_spec_workspace":{
+        "size":32,
+        "type":0
+    },
+    "kernelName":"transpose_7159519738427171586_0__kernel0",
+    "magic":"RT_DEV_BINARY_MAGIC_ELF",
+    "memoryStamping":[
+        -1
+    ],
+    "opParaSize":16384,
+    "parameters":[
+        null,
+        null,
+        null,
+        null
+    ],
+    "sha256":"1157fd6002d18c01a8d146041bb2ea8572137eb52e4f8fe57600d692ba5f2776",
+    "workspace":{
+        "num":1,
+        "size":[
+            16
+        ],
+        "type":[
+            0
+        ]
+    }
+}
